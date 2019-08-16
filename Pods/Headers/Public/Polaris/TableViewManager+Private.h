@@ -1,0 +1,1 @@
+../../../Polaris/Polaris/Classes/TableView/TableViewManager+Private.h

@@ -1,0 +1,1 @@
+../../../Polaris/Polaris/Classes/PhotoManager/PSImagePickerManager.h

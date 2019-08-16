@@ -1,0 +1,1 @@
+../../../Polaris/Polaris/Classes/TipsView/PSTipsView.h

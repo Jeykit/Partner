@@ -1,0 +1,1 @@
+../../../Polaris/Polaris/Classes/Refresh/PSRefreshFooterComponent.h

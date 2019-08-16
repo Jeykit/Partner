@@ -1,0 +1,1 @@
+../../../Polaris/Polaris/Classes/Signal/UIApplication+SignalM.h
