@@ -1,1 +1,0 @@
-../../../Polaris/Polaris/Classes/Refresh/PSRefreshHeaderComponent.h

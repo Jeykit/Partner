@@ -1,1 +1,0 @@
-../../../Polaris/Polaris/Classes/CollectionView/UICollectionView+CollectionViewManager.h

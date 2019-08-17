@@ -1,1 +1,0 @@
-../../../Polaris/Polaris/Classes/PhotoManager/PSVideoIndicatorView.h
